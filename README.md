@@ -20,4 +20,4 @@ Oppure scaricate l'immagine placeholder in locale
 
 
 **BONUS**
-1. Invece di utilizzare un unico file index.css separiamo lo style utilizzando i CSS Modules
+Aggiungi una sezione nella pagina in cui mostrare la lista dei tag distinti senza ripetizioni.
